@@ -1,7 +1,7 @@
-baseURL: "https://example.com"
+baseURL: "https://pillai.tech"
 languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+title: "Prithviraj | pillai.tech"
+pygmentsstyle: "monokai"
 
 # Theme settings
 # theme: novela

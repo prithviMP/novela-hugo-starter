@@ -2,7 +2,7 @@
 authors = []
 date = 2021-06-25T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/photo-1563030555-3e82ee6fb929.jpg"
 timeToRead = 0
 title = "How To Achieve Mastery Quickly In Anything ."
 

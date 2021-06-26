@@ -1,9 +1,8 @@
 +++
 authors = []
 date = 2021-06-16T18:30:00Z
-draft = true
 excerpt = "If you are here then you already know how important it is to get up early. But for some reason, you just can’t no matter how hard you try."
-hero = ""
+hero = "/images/0_qiviugjchl1cu7le_.jpg"
 timeToRead = 0
 title = "Can’t Wake Up Early? Most Powerful Method You can use Today [Proven]"
 

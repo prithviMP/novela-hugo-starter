@@ -37,9 +37,7 @@ It's Love, Fear(Exams), Anxiety, Drive etc. Basically its **emotions**. We human
 
 You need to ask yourself, what is that you are doing every day. Do you really love what you are doing, are you happy, were you the one who decided to do this thing. Your work, career, job, business etc. If not its time to ask the big question **WHY?**
 
-> _“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”_
->
-> **_– Steve Jobs_**
+_“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma  which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” -Steve jobs_
 
 # Conclusion
 
